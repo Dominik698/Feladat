@@ -1,0 +1,100 @@
+body {
+    background-color: rgb(255, 0, 0);
+}
+
+
+
+#first{
+    background-color: white;
+    width: 400px;
+    height: 350px;
+    left: 100px;
+    top: 300px;
+}
+
+
+#holtart{
+    background-color: azure;
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    left: 1500px;
+    top:20px;
+}
+
+
+
+#fejlesztese {
+    background-color: white;
+    width: 600px;
+    height: 250px;
+    left: 300px;
+    top: 320px;
+}
+
+
+#linus {
+
+    background-image: url(https://i.insider.com/55a04d066bb3f7f342f7425d?width=1136&format=jpeg) ;
+    background-size: cover;
+    width: 410px;
+    height: 350px;
+    position: absolute;
+    left: 408px;
+    top: 22px;
+
+}
+
+
+#fejlesztes {
+
+    background-image: url(https://img.themanual.com/image/themanual/shutterstock_609910106.jpg );
+    background-size: cover;
+    width: 390px;
+    height: 253px;
+    position: absolute;
+    left: 608px;
+    top: 390px;
+
+}
+
+#mitkell {
+    background-image: url(https://static9.depositphotos.com/1518767/1083/i/950/depositphotos_10830415-stock-photo-thoughtful-young-man-looking-to.jpg );
+    background-size: cover;
+    width: 400px;
+    height: 253px;
+    position: absolute;
+    left: 1500px;
+    top: 320px;
+
+
+}
+
+#nyil {
+background-image: url(http://alvasguru.hu/wp-content/uploads/2015/03/piros-ny%C3%ADl.png);
+background-size: cover;
+width: 175px;
+height: 80px;
+position: absolute;
+left: 230px;
+top: 250px;
+
+
+}
+
+#pingvin {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/220px-Tux.svg.png);
+    background-size: cover;
+    width: 70px;
+    height: 80px;
+    position: absolute;
+    left: 1800px;
+    top: 840px;
+    
+    
+    }
+
+
+    #elso {
+        font-size: 30pt;
+    }

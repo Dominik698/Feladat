@@ -1,0 +1,64 @@
+body {
+    background-color: red;
+}
+
+
+#first{
+    width: 400px;
+    height: 350px;
+    font-size: 13pt;
+    left: 100px;
+    top: 300px;
+}
+
+#kep1 {
+    background-image: url(https://img.compozi.com/img/arch-linux/570/6-Best-Arch-Linux-Based-User-Friendly-Distributions-of-2019.jpg);
+    background-size: cover;
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    left: 408px;
+    top: 22px;
+
+}
+
+
+#alapok3{
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    left: 1000px;
+    top:-10px;
+}
+
+#kep2 {
+    background-image: url(https://boxofcables.dev/content/images/2020/10/Screenshot-2020-10-11-184607.png);
+    background-size: cover;
+    width: 555px;
+    height: 420px;
+    position: absolute;
+    left: 1400px;
+    top: 22px;
+}
+
+#kep3 {
+    background-image: url(https://pbs.twimg.com/profile_images/1486153713/cof_orange_hex_400x400.jpg);
+    background-size: cover;
+    width: 500px;
+    height: 400px;
+    position: absolute;
+    left: 1450px;
+    top: 500px;
+}
+
+#ubuntu {
+    width: 400px;
+    height: 360px;
+    position: absolute;
+    left: 1000px;
+    top:500px
+}
+
+#harmadik {
+    font-size: 20pt;
+}

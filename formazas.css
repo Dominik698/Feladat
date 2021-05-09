@@ -1,0 +1,97 @@
+#fooldalkep {
+background-image: url(https://www.rackhost.hu/tudasbazis/wp-content/uploads/800px-Linlogo.jpg);
+background-size: cover;
+width: 550px;
+height: 300px;
+position: absolute;
+left: 720px;
+top: 20px;
+}
+
+#szoveg {
+    background-color: red;
+}
+
+#ttt {
+    background-image: url(https://ih1.redbubble.net/image.569594065.2401/aps,504x498,small,transparent-pad,600x600,f8f8f8.jpg);
+    background-size: cover;
+    width: 167px;
+    height: 150px;
+    position: absolute;
+    left: 570px;
+    top: 500px;
+}
+
+
+#elso {
+    background-size: cover;
+    width: 170px;
+    height: 150px;
+    position: absolute;
+    left: 580px;
+    top: 480px;
+}
+
+
+
+#tt {
+    background-image: url(https://www.pinclipart.com/picdir/middle/93-938387_du-command-start-menu-button-linux-clipart.png);
+    background-size: cover;
+    width: 167px;
+    height: 160px;
+    position: absolute;
+    left: 888px;
+    top: 500px;
+}
+
+#masodik {
+    background-size: cover;
+    width: 170px;
+    height: 150px;
+    position: absolute;
+    left: 888px;
+    top: 480px;
+}
+
+#t {
+    background-image: url(https://librehunt.org/logos/kali.png);
+    background-size: cover;
+    width: 167px;
+    height: 150px;
+    position: absolute;
+    left: 1200px;
+    top: 500px;
+}
+
+#harmadik {
+    background-size: cover;
+    width: 170px;
+    height: 150px;
+    position: absolute;
+    left: 1200px;
+    top: 480px;
+}
+
+
+#reklam {
+    background-image: url(https://doksi.net/en/doksik.php?order=GetOviewPage&lid=33835&p=1&src=local&f=png);
+    background-size: cover;
+    width: 500px;
+    height: 700px;
+    position: absolute;
+    left: 40px;
+    top: 200px;
+}
+
+
+#reklam2 {
+    background-image: url(https://marvin.bline.hu/product_images/573/0129002578383G.JPG);
+    background-size: cover;
+    width: 500px;
+    height: 700px;
+    position: absolute;
+    left: 1360px;
+    top: 200px;
+}
+
+
